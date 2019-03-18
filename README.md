@@ -6,10 +6,13 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+	2.5.1
 
 * System dependencies
+	postgresql library (ubuntu)
 
 * Configuration
+	Test only on Ubuntu 18.04
 
 * Database creation
 
