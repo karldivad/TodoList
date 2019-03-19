@@ -16,7 +16,7 @@ gem 'puma', '~> 3.11'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 # GraphQL
-gem 'graphql', '~> 1.7', '>= 1.7.14'
+gem 'graphql', '~> 1.9.3', '>= 1.9.3'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
